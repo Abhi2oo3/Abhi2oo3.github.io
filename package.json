@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "generate-context": "node generate-context.js --dir my-app --out full_context.md"
+  },
+  "dependencies": {
+    "three": "^0.181.2"
+  },
+  "devDependencies": {
+    "@types/three": "^0.181.0"
+  }
+}
